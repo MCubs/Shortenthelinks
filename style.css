@@ -1,0 +1,27 @@
+body {
+        font-family: Arial;
+}
+a {
+        text-decoration: none;
+        color: #0000FF;
+}
+.container{
+	text-align: center; 
+	padding: 30px 0 20px 0;
+}
+.url{
+	width: 300px; 
+	font-size: 20px;
+}
+.short_url{
+	width: 100px; 
+	font-size: 20px;
+}
+.submit{
+	font-size: 20px; 
+	width: 150px;
+}
+.error{
+	font-size: 16px; 
+	color: #ffffff;
+}
