@@ -34,7 +34,7 @@ function page($content='')
                 <input type="hidden" name="do" value="add">
                 <input type="text" class="url" name="url" value="">
                 <input type="text" class="short_url" name="short_url" value="">
-                <input type="submit" class="submit" value="Сократить">
+                <input type="submit" class="submit" value="Сгенерировать">
             </form>';
              echo $content;
             '</div>
